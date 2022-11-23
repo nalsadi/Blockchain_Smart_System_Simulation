@@ -125,7 +125,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">A Deep Blockchain Strategy for Secure IoT Networks</h3>
+<h3 align="center">Blockchain Smart System Simulation</h3>
 
   <p align="center">
     Highly distributed connected systems, such as the Internet of Things (IoT) have made their way across numerous fields of application. IoT systems present a method for the connection for various heterogeneous devices across the internet, facilitating the efficient distribution, collection and processing of system-related data. However, while system inter-connectivity has aided communication and augmented the effectiveness of integrated technology, it has also increased system vulnerability. To this end, researchers have proposed various security protocols and frameworks for IoT ecosystems. Yet while many suggested approaches augment system security, centralization remains an area of concern within IoT systems. Therefore, we propose the use of a decentralization scheme for IoT ecosystems, based on Blockchain technology. The proposed approach utilizes a fundamental public Blockchain with integrated deep learning for the purpose of anomaly detection within the peer-to-peer network.
